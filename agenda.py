@@ -86,3 +86,10 @@ def imprimir_menu():
             excluir_contato(input('digite o contato que deseja exluir: '))
 
 imprimir_menu()
+#mostrar_contatos(AGENDA)
+#buscar_contato('Guilherme',AGENDA)
+#excluir_contato('Guilherme')
+#mostrar_contatos(AGENDA)
+#editar_contato('Guilherme','telefone','999')
+#adicionar_contato('Celson','99991111','celson@alunos.utpr.udbr','ernani 2 ')
+#mostrar_contatos(AGENDA
